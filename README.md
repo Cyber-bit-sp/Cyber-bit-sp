@@ -183,28 +183,6 @@ A full-stack expense management application that helps users securely track inco
 
 ---
 
-### 📄 ATS Resume Generator
-
-An AI-assisted resume platform that generates tailored and ATS-friendly resumes using an existing resume, a target job description, and customization instructions.
-
-**Features**
-
-- Resume content extraction
-- Job-description analysis
-- AI-assisted resume tailoring
-- ATS-friendly formatting
-- Resume preview and export
-- User authentication
-- Saved resume versions
-- Secure backend processing
-- Responsive frontend interface
-
-**Technologies**
-
-`React` `TypeScript` `Python` `Django REST Framework` `PostgreSQL` `Docker`
-
----
-
 ### 📱 React Native Update Platform
 
 A production-oriented update system for React Native applications that distributes application updates efficiently across supported platforms.
@@ -251,22 +229,6 @@ An intelligent email-management application that analyzes inbox messages, organi
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Cyber-bit-sp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-  alt="Cyber-bit-sp GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-bit-sp&layout=compact&langs_count=10&hide_border=true&theme=transparent"
-  alt="Cyber-bit-sp most used languages"
-/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -276,29 +238,6 @@ An intelligent email-management application that analyzes inbox messages, organi
   src="https://streak-stats.demolab.com?user=Cyber-bit-sp&hide_border=true&theme=transparent"
   alt="Cyber-bit-sp GitHub streak"
 />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Cyber-bit-sp&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"
-  alt="Cyber-bit-sp GitHub trophies"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Cyber's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-bit-sp&bg_color=transparent&color=2563eb&line=2563eb&point=2563eb&area=true&hide_border=true)](https://github.com/Cyber-bit-sp)
 
 </div>
 
