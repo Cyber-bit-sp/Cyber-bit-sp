@@ -227,22 +227,6 @@ An intelligent email-management application that analyzes inbox messages, organi
 
 ---
 
-## 📊 GitHub Statistics
-
-<br>
-
-<div align="center">
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=Cyber-bit-sp&hide_border=true&theme=transparent"
-  alt="Cyber-bit-sp GitHub streak"
-/>
-
-</div>
-
----
-
 ## 🕹️ Contribution Graph
 
 <picture>
